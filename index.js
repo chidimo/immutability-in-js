@@ -1,4 +1,4 @@
-require('./data-types')
-require('./immer-produce')
-require('./reducers-with-curried-produce')
-require('./reducers-with-produce')
+require('./src/data-types')
+require('./src/immer-produce')
+require('./src/reducers-with-curried-produce')
+require('./src/reducers-with-produce')
